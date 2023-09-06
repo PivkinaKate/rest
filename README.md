@@ -1,1 +1,1 @@
-[![Java CI with Gradle](https://github.com/PivkinaKate/rest/actions/workflows/gradle.yml/badge.svg)](https://github.com/PivkinaKate/rest/actions/workflows/gradle.yml)
+[![Build status](https://ci.appveyor.com/api/projects/status/cb9d5feo0p3bn3u8?svg=true)](https://ci.appveyor.com/project/PivkinaKate/rest)
